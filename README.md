@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @francescocordani02
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on web sites
 - 📫 How to reach me: francesco.cordani2703@gmail.com
 
 <!---
